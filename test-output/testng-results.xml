@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-12T23:42:05 IST" name="Suite" finished-at="2024-08-12T23:42:33 IST" duration-ms="27109">
+    <groups>
+    </groups>
+    <test started-at="2024-08-12T23:42:05 IST" name="Test" finished-at="2024-08-12T23:42:06 IST" duration-ms="97">
+      <class name="Tests.LoginTest">
+        <test-method signature="LoginasBankManager()[pri:1, instance:Tests.LoginTest@48e92c5c]" started-at="2024-08-12T23:42:05 IST" name="LoginasBankManager" finished-at="2024-08-12T23:42:06 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginasBankManager -->
+      </class> <!-- Tests.LoginTest -->
+    </test> <!-- Test -->
+    <test started-at="2024-08-12T23:42:06 IST" name="Add customer Test" finished-at="2024-08-12T23:42:08 IST" duration-ms="2110">
+      <class name="Tests.AddCustomerTest">
+        <test-method signature="addcustomer(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.AddCustomerTest@4b1d6571]" started-at="2024-08-12T23:42:07 IST" name="addcustomer" data-provider="bvtdata" finished-at="2024-08-12T23:42:07 IST" duration-ms="415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+        <test-method signature="addcustomer(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.AddCustomerTest@4b1d6571]" started-at="2024-08-12T23:42:07 IST" name="addcustomer" data-provider="bvtdata" finished-at="2024-08-12T23:42:07 IST" duration-ms="198" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gupta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+        <test-method signature="addcustomer(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.AddCustomerTest@4b1d6571]" started-at="2024-08-12T23:42:07 IST" name="addcustomer" data-provider="bvtdata" finished-at="2024-08-12T23:42:08 IST" duration-ms="206" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+        <test-method signature="addcustomer(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.AddCustomerTest@4b1d6571]" started-at="2024-08-12T23:42:08 IST" name="addcustomer" data-provider="bvtdata" finished-at="2024-08-12T23:42:08 IST" duration-ms="189" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcustomer -->
+      </class> <!-- Tests.AddCustomerTest -->
+    </test> <!-- Add customer Test -->
+    <test started-at="2024-08-12T23:42:08 IST" name="Open Account Test" finished-at="2024-08-12T23:42:09 IST" duration-ms="1108">
+      <class name="Tests.OpenAccountTest">
+        <test-method signature="openaccount(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.OpenAccountTest@6fb365ed]" started-at="2024-08-12T23:42:08 IST" name="openaccount" data-provider="bvtdata" finished-at="2024-08-12T23:42:08 IST" duration-ms="431" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rupee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openaccount -->
+        <test-method signature="openaccount(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.OpenAccountTest@6fb365ed]" started-at="2024-08-12T23:42:08 IST" name="openaccount" data-provider="bvtdata" finished-at="2024-08-12T23:42:09 IST" duration-ms="226" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gupta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rupee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openaccount -->
+        <test-method signature="openaccount(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.OpenAccountTest@6fb365ed]" started-at="2024-08-12T23:42:09 IST" name="openaccount" data-provider="bvtdata" finished-at="2024-08-12T23:42:09 IST" duration-ms="213" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rupee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openaccount -->
+        <test-method signature="openaccount(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.OpenAccountTest@6fb365ed]" started-at="2024-08-12T23:42:09 IST" name="openaccount" data-provider="bvtdata" finished-at="2024-08-12T23:42:09 IST" duration-ms="202" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rupee]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openaccount -->
+      </class> <!-- Tests.OpenAccountTest -->
+    </test> <!-- Open Account Test -->
+    <test started-at="2024-08-12T23:42:09 IST" name="Customer Login Test" finished-at="2024-08-12T23:42:31 IST" duration-ms="22269">
+      <class name="Tests.CustomerLoginTest">
+        <test-method signature="customerlogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.CustomerLoginTest@5a709816]" started-at="2024-08-12T23:42:09 IST" name="customerlogin" data-provider="bvtdata" finished-at="2024-08-12T23:42:15 IST" duration-ms="5917" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[500]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerlogin -->
+        <test-method signature="customerlogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.CustomerLoginTest@5a709816]" started-at="2024-08-12T23:42:15 IST" name="customerlogin" data-provider="bvtdata" finished-at="2024-08-12T23:42:20 IST" duration-ms="5418" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gupta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2000]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[400]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerlogin -->
+        <test-method signature="customerlogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.CustomerLoginTest@5a709816]" started-at="2024-08-12T23:42:20 IST" name="customerlogin" data-provider="bvtdata" finished-at="2024-08-12T23:42:26 IST" duration-ms="5440" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[500]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerlogin -->
+        <test-method signature="customerlogin(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.CustomerLoginTest@5a709816]" started-at="2024-08-12T23:42:26 IST" name="customerlogin" data-provider="bvtdata" finished-at="2024-08-12T23:42:31 IST" duration-ms="5433" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[300]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[150]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customerlogin -->
+      </class> <!-- Tests.CustomerLoginTest -->
+    </test> <!-- Customer Login Test -->
+    <test started-at="2024-08-12T23:42:31 IST" name="Delete Customer Test" finished-at="2024-08-12T23:42:33 IST" duration-ms="1242">
+      <class name="Tests.DeleteTest">
+        <test-method is-config="true" signature="WebdriverMananager()[pri:0, instance:Tests.DeleteTest@4748a0f9]" started-at="2024-08-12T23:42:02 IST" name="WebdriverMananager" finished-at="2024-08-12T23:42:05 IST" duration-ms="3538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebdriverMananager -->
+        <test-method signature="deletecustomer(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.DeleteTest@4748a0f9]" started-at="2024-08-12T23:42:31 IST" name="deletecustomer" data-provider="bvtdata" finished-at="2024-08-12T23:42:32 IST" duration-ms="523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecustomer -->
+        <test-method signature="deletecustomer(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.DeleteTest@4748a0f9]" started-at="2024-08-12T23:42:32 IST" name="deletecustomer" data-provider="bvtdata" finished-at="2024-08-12T23:42:32 IST" duration-ms="227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gupta]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecustomer -->
+        <test-method signature="deletecustomer(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.DeleteTest@4748a0f9]" started-at="2024-08-12T23:42:32 IST" name="deletecustomer" data-provider="bvtdata" finished-at="2024-08-12T23:42:32 IST" duration-ms="235" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raman]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Roy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecustomer -->
+        <test-method signature="deletecustomer(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Tests.DeleteTest@4748a0f9]" started-at="2024-08-12T23:42:32 IST" name="deletecustomer" data-provider="bvtdata" finished-at="2024-08-12T23:42:33 IST" duration-ms="228" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[A234wd34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecustomer -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.DeleteTest@4748a0f9]" started-at="2024-08-12T23:42:33 IST" name="teardown" finished-at="2024-08-12T23:42:33 IST" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.DeleteTest -->
+    </test> <!-- Delete Customer Test -->
+  </suite> <!-- Suite -->
+</testng-results>
